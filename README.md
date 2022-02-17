@@ -2,7 +2,8 @@
 - 👀 I’m interested in developing 
 - 🌱 I’m currently learning ...
 - Passionate programmer
-- 📫 How to reach me ...
+- 📫 Just find me ans start working with mew 
+
 
 <!---
 hariomtiwari18/hariomtiwari18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
